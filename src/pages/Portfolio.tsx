@@ -197,7 +197,7 @@ export default function Portfolio() {
               label="Email"
             />
             <SocialLink
-              href="https://drive.google.com/file/d/1NiYIuZZ9v9QJ2mjVFWiazKqFaLFe9Brx/view"
+              href="https://drive.google.com/file/d/1lz43zmQPQoQfCT7SO1YG3C2MUa1J5mKG/view"
               icon={FileText}
               label="Resume"
             />
